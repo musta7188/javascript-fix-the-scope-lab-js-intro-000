@@ -24,4 +24,4 @@ var funkyFunction = function() {
   }
 }
 
-let funkyFunction = theFunk;
+var theFunk = "FUNKY!";
